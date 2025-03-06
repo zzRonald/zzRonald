@@ -1,7 +1,7 @@
 ## *Hi there 👋, I'am Ronald*
 
 -  🔭 I’m currently working in administrative office
--  🌱 I’m currently studying information systems 6/7 🔥
+-  🌱 I’m currently studying information systems 6/7 
 -  📫 How to reach me: dev.ronaldd@gmail.com
   
 ##   
