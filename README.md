@@ -7,7 +7,8 @@ Aqui você pode encontrar alguns dos meus projetos, espero que goste!
 ---
 
 ## 📊 Minhas Estatísticas no GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzRonald&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzRonald&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzRonald&theme=radical)
 
 ---
 
