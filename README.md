@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zzRonald/output/snake.svg" alt="Animação de cobra" />
+<img src="https://raw.githubusercontent.com/zzRonald/zzRonald/output/snake.svg" alt="Animação de cobra" />
 
 </div>
 
