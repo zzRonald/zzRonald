@@ -37,7 +37,9 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zzRonald&"  />
+
+<img src="https://raw.githubusercontent.com/zzRonald/zzRonald/output/snake.svg" alt="Animação de cobra" />
+
 </div>
 
 ###
