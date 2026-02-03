@@ -1,4 +1,4 @@
-<h5 align="left">Estudante de Sistemas de informação na faculdade Isulpar em Paranaguá PR. Atualmente estudo Frotend e UI E UX paralelamente. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras</h5>
+<h5 align="left">Estudante de Sistemas de informação na faculdade Isulpar em Paranaguá PR. Atualmente trabalho com Backend e estudo sobre banco de dados. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras</h5>
 
 ###
 
