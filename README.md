@@ -1,8 +1,4 @@
-<br clear="both">
 
-<img align="left" height="190"
-src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBzYXdla3Q1cmIyMTVhcnVvb3RjdjlpdjZlZXdzNmR2MDAwZXF4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"
-/>
 
 <h3 align="center">👋 Olá, eu sou o Ronald</h3>
 
@@ -80,5 +76,11 @@ tecnicamente e criar soluções eficientes e inovadoras.
   <a href="https://www.instagram.com/spet.ronald/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40spet.ronald-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38"/>
   </a>
+  <p align="center">
+  <img 
+    src="https://vignette.wikia.nocookie.net/life-is-strange/images/e/e4/Wolves_ui.gif/revision/latest?cb=20181030145423"
+    width="40%"
+  >
+</p>
 </div>
 
