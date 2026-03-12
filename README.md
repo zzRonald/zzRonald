@@ -1,5 +1,3 @@
-
-
 <h3 align="center">👋 Olá, eu sou o Ronald</h3>
 
 <h4 align="center">
@@ -76,11 +74,22 @@ tecnicamente e criar soluções eficientes e inovadoras.
   <a href="https://www.instagram.com/spet.ronald/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40spet.ronald-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38"/>
   </a>
-  <p align="center">
-  <img 
-    src="https://vignette.wikia.nocookie.net/life-is-strange/images/e/e4/Wolves_ui.gif/revision/latest?cb=20181030145423"
-    width="40%"
-  >
-</p>
 </div>
 
+---
+
+### 📊 Estatísticas e Produtividade (2025 - 2026)
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzRonald&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzRonald&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img 
+    src="https://vignette.wikia.nocookie.net/life-is-strange/images/e/e4/Wolves_ui.gif/revision/latest?cb=20181030145423"
+    width="30%"
+  >
+</div>
