@@ -78,15 +78,6 @@ tecnicamente e criar soluções eficientes e inovadoras.
 
 ---
 
-### 📊 Estatísticas e Produtividade (2025 - 2026)
-
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzRonald&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzRonald&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
 <div align="center">
   <img 
     src="https://vignette.wikia.nocookie.net/life-is-strange/images/e/e4/Wolves_ui.gif/revision/latest?cb=20181030145423"
