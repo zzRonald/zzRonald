@@ -23,6 +23,16 @@ e processos bem definidos de
 
 ---
 
+[<img align="left" height="98px" width="98px" alt="Warpnet" src="https://github.com/user-attachments/assets/fe6bf38b-7249-46d9-8161-d5e2ce86fe36"/>](https://onium.com.br/)
+
+**Desenvolvedor Backend** \
+[**Onium**](https://onium.com.br/) • 
+Linguagens & Tecnologias: `C#`, `.NET 6/8`, `Angular`, `Git`, `SqlServer`,
+
+<br/>
+
+---
+
 <h4>🎓 Formação & Aprendizado</h4>
 
 <p>
