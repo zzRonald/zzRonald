@@ -61,6 +61,9 @@ tecnicamente e criar soluções eficientes e inovadoras.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="45" />
   <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="45" />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
   <img width="12" />
 
@@ -68,6 +71,10 @@ tecnicamente e criar soluções eficientes e inovadoras.
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zzRonald/zzRonald/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 
 <h4 align="center">📫 Vamos nos conectar</h4>
