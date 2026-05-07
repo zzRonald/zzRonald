@@ -21,22 +21,13 @@ e processos bem definidos de
 <strong>CI/CD e entrega contínua</strong>.
 </p>
 
-<div align="center">
-  <a href="https://catalog-education.oracle.com" target="_blank">
-    <img width="480" alt="OCI 2025 Certified Foundations Associate" src="https://github.com/user-attachments/assets/cc8d95f6-4311-4bb0-8fce-0be248107438" />
-  </a>
-  <p><strong>Oracle Cloud Infrastructure 2025 Certified Foundations Associate</strong></p>
-  <p><em>Foco em arquitetura de nuvem, segurança de dados e alta disponibilidade.</em></p>
-</div>
-
----
-
-[<img align="left" height="98px" width="98px" alt="Warpnet" src="https://github.com/user-attachments/assets/fe6bf38b-7249-46d9-8161-d5e2ce86fe36"/>](https://onium.com.br/)
+[<img align="left" height="100px" width="100px" alt="Onium" src="https://github.com/user-attachments/assets/fe6bf38b-7249-46d9-8161-d5e2ce86fe36"/>](https://onium.com.br/)
 
 **Desenvolvedor Backend** \
 [**Onium**](https://onium.com.br/) • 
 Linguagens & Tecnologias: `C#`, `.NET 6/8`, `Angular`, `Git`, `SqlServer`, `OCI`
 
+<br/>
 <br/>
 
 ---
@@ -50,6 +41,23 @@ Especializado em <strong>Backend</strong>, estudo continuamente
 <strong>bancos de dados autônomos</strong>, <strong>segurança em nuvem</strong> e arquitetura de sistemas.
 Estou sempre em busca de novos desafios para elevar a maturidade técnica das soluções que desenvolvo.
 </p>
+
+---
+
+<h4>🎓 Certificações & Especializações</h4>
+
+[<img align="right" height="200px" width="300px" alt="OCI Badge" src="https://github.com/user-attachments/assets/1540b262-310c-4039-9ed7-3fd40109a7c2"/>](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC8031011&trackId=OCI25FNDCFA&key=6e18289fc9e0fc544de41895f67a642e48523f04)
+
+
+[**Oracle Cloud Infrastructure 2025 Foundations Associate**](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC8031011&trackId=OCI25FNDCFA&key=6e18289fc9e0fc544de41895f67a642e48523f04)
+<br>
+Certificação técnica voltada para arquitetura de nuvem pública, serviços de infraestrutura core, segurança de dados e alta disponibilidade em ambientes críticos.
+
+<br/>
+<br/>
+<br/>
+
+---
 
 <h4 align="center">🛠️ Tecnologias & Ferramentas</h4>
 
@@ -75,13 +83,7 @@ Estou sempre em busca de novos desafios para elevar a maturidade técnica das so
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dev-ronald/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Dev%20Ronald-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
-  </a>
-  <a href="mailto:dev.ronaldd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-dev.ronaldd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
-  </a>
-  <a href="https://www.instagram.com/spet.ronald/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40spet.ronald-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ronald%20Carvalho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
 </div>
 
@@ -89,7 +91,7 @@ Estou sempre em busca de novos desafios para elevar a maturidade técnica das so
 
 <div align="center">
   <img 
-    src="https://vignette.wikia.nocookie.net/life-is-strange/images/e/e4/Wolves_ui.gif/revision/latest?cb=20181030145423"
+    src="https://vignette.wikia.nocookie.net/life-is-strange/images/e/e4/Wolves_ui.gif/revision/latest?cb=20181030145423" 
     width="30%"
   >
 </div>
