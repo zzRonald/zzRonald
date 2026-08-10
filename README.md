@@ -60,12 +60,6 @@ Sou responsável pela manutenção de integrações complexas e pela automação
   </tr>
 </table>
 
-<div align="center">
-  <br/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zzRonald&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zzRonald&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
-</div>
-
 <br/>
 
 ---
