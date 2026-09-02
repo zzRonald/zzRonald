@@ -15,7 +15,7 @@ fluxo contínuo, onde <strong>alta disponibilidade</strong> não é um diferenci
 ---
 [<img align="left" height="130px" width="130px" alt="Onium" src="https://github.com/user-attachments/assets/fe6bf38b-7249-46d9-8161-d5e2ce86fe36"/>](https://onium.com.br/)
 
-**Desenvolvedor Backend** \
+**Desenvolvedor FullStack** \
 [**Onium**](https://onium.com.br/) • 
 Linguagens & Tecnologias: `C#`, `.NET 6/8`, `Angular`, `Git`, `SqlServer`, `OCI`
 
