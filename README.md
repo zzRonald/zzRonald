@@ -1,7 +1,7 @@
 <h3 align="center"> Olá, eu sou o Ronald</h3>
 
 <h4 align="center">
-Desenvolvedor Backend na 
+Desenvolvedor FullStack na 
 <a href="https://onium.com.br/" target="_blank">ONIUM Tecnologia e Sistemas</a>
 </h4>
 
